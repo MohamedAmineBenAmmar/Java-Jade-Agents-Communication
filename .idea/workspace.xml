@@ -10,12 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d456d18-ea3f-4a88-8925-de076efec7a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/agents/AMSAgent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SMA_TP2_jar/SMA_TP2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SMA_TP2_jar/SMA_TP2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/agents/BlockingReceiverAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agents/BlockingReceiverAgent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/agents/NonBlockingReceiverBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agents/NonBlockingReceiverBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/agents/SenderAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agents/SenderAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
